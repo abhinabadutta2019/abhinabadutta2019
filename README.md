@@ -6,7 +6,6 @@
  <li>
     📫 How to reach me:
     <a href="https://www.linkedin.com/in/abhinabadutta/">linkedin</a>
-    <a href="mailto:abhinabadutta2015@gmail.com">mail</a>
   </li>
   <li>⚡ Unbelievable fact: My first words were "Hello world".</li>
   <li>🎨 Trying to Fill my canvas with New Skills</li>
@@ -24,16 +23,6 @@
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="linkedin"
 /></a>
-
-
-<p>
-  <a href="mailto: abhinabadutta2015@gmail.com"
-    ><img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="mail"
-  /></a>
-</p>
-
 
 <h3>< Programming Languages👨‍💻 /><h3/>
 
