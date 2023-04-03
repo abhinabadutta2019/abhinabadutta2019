@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Abhinaba</h1>
 
 <ul>
-  <li>👨‍💻 I am a self taught programmer</li>
+  <li>👨‍💻 I am a self taught developer</li>
   <li>🔭 Currently Experimenting With MongoDB, Express, React, Node </li>
  <li>
     📫 How to reach me:
