@@ -2,7 +2,7 @@
 
 <ul>
   <li>👨‍💻 I am a self taught programmer</li>
-  <li>🔭 Currently Experimenting With Node.js,Express, MongoDB</li>
+  <li>🔭 Currently Experimenting With MongoDB, Express, React, Node </li>
  <li>
     📫 How to reach me:
     <a href="https://www.linkedin.com/in/abhinabadutta/">linkedin</a>
