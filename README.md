@@ -6,6 +6,7 @@
   <li>
     📫 How to reach me:
     <a href="https://www.linkedin.com/in/abhinabadutta/">linkedin</a>
+
   </li>
   <li>⚡ Unbelievable fact: My first words were "Hello world".</li>
   <li>🎨 Trying to Fill my canvas with New Skills</li>
@@ -26,7 +27,7 @@
 
 
 <p>
-  <a href="mailto: someone@example.com"
+  <a href="mailto: abhinabadutta2015@gmail.com"
     ><img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="mail"
