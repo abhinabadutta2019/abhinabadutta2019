@@ -1,4 +1,4 @@
-![alt text](https://unsplash.com/photos/9SoCnyQmkzI)
+<img src="https://unsplash.com/photos/9SoCnyQmkzI" alt="" />
 
 <h1 align="center">Hi👋, I'm Abhinaba</h1>
 
