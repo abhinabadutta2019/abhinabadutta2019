@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👨‍💻 I am a self taught programmer
+🔭 Currently Experimenting With Node.js,Express, MongoDB
+📫 How to reach me: Linkedin
+⚡ Unbelievable fact: My first words were "Hello world".
+🎨 Trying to Fill my canvas with New Skills
+
 
 <!--  -->
 <h3>👨 Social</h3>
