@@ -25,10 +25,10 @@
 /></a>
 
 
-<img
+<p><a href="mailto:someone@example.com"><img
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="mail"
-/>
+/></a></p>
 
 
 <h3>< Programming Languages👨‍💻 /><h3/>
