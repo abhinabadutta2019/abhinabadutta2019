@@ -5,6 +5,7 @@
 
 <ul>
   <li>👨‍💻 I am a self taught developer</li>
+<p><img src="https://unsplash.com/photos/9SoCnyQmkzI" alt="a" /></p>
   <br />
   <li>
     🔭 Currently Experimenting With <strong>MongoDB</strong>,
