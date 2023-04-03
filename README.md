@@ -24,11 +24,11 @@
     alt="linkedin"
 /></a>
 
-<a href="mailto: abhinabadutta2015@gmail.com"
-  ><img
+
+<img
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="mail"
-/></a>
+/>
 
 
 <h3>< Programming Languages👨‍💻 /><h3/>
