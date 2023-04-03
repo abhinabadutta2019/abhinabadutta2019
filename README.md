@@ -1,5 +1,4 @@
 
-<img src="https://unsplash.com/photos/9SoCnyQmkzI" alt="cover" />
 <h1 align="center">Hi👋, I'm Abhinaba</h1>
 
 <ul>
