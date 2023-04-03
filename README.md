@@ -2,11 +2,12 @@
 
 <ul>
   <li>👨‍💻 I am a self taught developer</li>
-  <li>🔭 Currently Experimenting With MongoDB, Express, React, Node </li>
- <li>
-    📫 How to reach me:
+  <li>🔭 Currently Experimenting With MongoDB, Express, React, Node</li>
+  <li>
+    📫 Connect with me:
     <a href="https://www.linkedin.com/in/abhinabadutta/">linkedin</a>
   </li>
+  <li>📫 Mail me: abhinabadutta2015@gmail.com</li>
   <li>⚡ Unbelievable fact: My first words were "Hello world".</li>
   <li>🎨 Trying to Fill my canvas with New Skills</li>
 </ul>
