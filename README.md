@@ -9,8 +9,10 @@
     <a href="https://www.linkedin.com/in/abhinabadutta/">linkedin</a>
   </li>
   <li>
-    📫 Mail me:<a href="mailto:abhinabadutta2015@gmail.com"
-      >abhinabadutta2015@gmail.com</a
+    📫 Mail me:<strong
+      ><a href="mailto:abhinabadutta2015@gmail.com"
+        >abhinabadutta2015@gmail.com</a
+      ></strong
     >
   </li>
   <li>⚡ Unbelievable fact: My first words were "Hello world".</li>
