@@ -3,16 +3,19 @@
 
 <ul>
   <li>👨‍💻 I am a self taught developer</li>
+  <br />
   <li>
     🔭 Currently Experimenting With <strong>MongoDB</strong>,
     <strong>Express</strong>, <strong>React</strong>, <strong>Node</strong>
   </li>
+  <br />
   <li>
     📫 Connect with me:
     <a href="https://www.linkedin.com/in/abhinabadutta/"
       ><strong>linkedin</strong></a
     >
   </li>
+  <br />
   <li>
     📫 Mail me:
     <strong
@@ -21,10 +24,9 @@
       ></strong
     >
   </li>
-  <li>⚡ Unbelievable fact: My first words were "Hello world".</li>
+  <br />
   <li>🎨 Trying to Fill my canvas with New Skills</li>
 </ul>
-
 
 
 <!--  -->
