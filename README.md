@@ -4,12 +4,13 @@
   <li>👨‍💻 I am a self taught programmer</li>
   <li>🔭 Currently Experimenting With Node.js,Express, MongoDB</li>
   <li>
-    📫 How to reach me: Linkedin
-    <a href="https://www.linkedin.com/in/abhinabadutta/"></a>
+    📫 How to reach me:
+    <a href="https://www.linkedin.com/in/abhinabadutta/">linkedin</a>
   </li>
   <li>⚡ Unbelievable fact: My first words were "Hello world".</li>
   <li>🎨 Trying to Fill my canvas with New Skills</li>
 </ul>
+
 
 
 
