@@ -1,8 +1,4 @@
 
-<img
-  src="https://github.com/abhinabadutta2019/abhinabadutta2019/blob/main/github1.jpg"
-  alt="cover"
-/>
 <h1 align="center">Hi👋, I'm Abhinaba</h1>
 
 <ul>
