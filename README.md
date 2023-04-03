@@ -34,14 +34,6 @@
   alt="javascript"
 />
 
-<h3>
-  Database Systems📊
-  <h3 />
-  
-  <img
-  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-  alt="mysql"
-/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
 
 <h3>Tools & Frameworks⚒️</h3>
 
@@ -65,3 +57,12 @@
   alt="git"
 /> 
 
+
+<h3>
+  Database Systems📊
+  <h3 />
+  
+  <img
+  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+  alt="mysql"
+/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
