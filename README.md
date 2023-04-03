@@ -6,7 +6,7 @@
  <li>
     📫 How to reach me:
     <a href="https://www.linkedin.com/in/abhinabadutta/">linkedin</a>
-    <a href="mailto: abhinabadutta2015@gmail.com">mail</a>
+    <a href="mailto:abhinabadutta2015@gmail.com">mail</a>
   </li>
   <li>⚡ Unbelievable fact: My first words were "Hello world".</li>
   <li>🎨 Trying to Fill my canvas with New Skills</li>
