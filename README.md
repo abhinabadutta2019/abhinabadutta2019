@@ -24,6 +24,11 @@
     alt="linkedin"
 /></a>
 
+<a href="mailto: abhinabadutta2015@gmail.com"><img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="linkedin"
+/></a>
+
 
 <h3>< Programming Languages👨‍💻 /><h3/>
 
