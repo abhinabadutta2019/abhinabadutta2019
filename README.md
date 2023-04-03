@@ -89,4 +89,4 @@
     alt="linkedin"
 /></a>
 
-<p><img src="https://unsplash.com/photos/9SoCnyQmkzI" alt="a" /></p>
+
