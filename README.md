@@ -1,4 +1,4 @@
-<h1 align="center">### Hi👋, I'm Abhinaba</h1>
+<h1 align="center">Hi👋, I'm Abhinaba</h1>
 
 <ul>
   <li>👨‍💻 I am a self taught programmer</li>
