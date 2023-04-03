@@ -1,4 +1,8 @@
 
+<img
+  src="https://camo.githubusercontent.com/d3359cb00ab0b5e…3756e676c61737365732e6769663f31353331383439343330"
+  alt="cover"
+/>
 <h1 align="center">Hi👋, I'm Abhinaba</h1>
 
 <ul>
