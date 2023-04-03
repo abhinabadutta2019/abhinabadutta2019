@@ -30,13 +30,7 @@
 
 
 <!--  -->
-<h3>👨 Social</h3>
 
-
-<a href="https://www.linkedin.com/in/abhinabadutta/"><img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="linkedin"
-/></a>
 
 <h3>< Programming Languages👨‍💻 /><h3/>
 
@@ -83,3 +77,11 @@
   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
   alt="mysql"
 /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+
+<h3>👨 Social</h3>
+
+
+<a href="https://www.linkedin.com/in/abhinabadutta/"><img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="linkedin"
+/></a>
