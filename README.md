@@ -42,3 +42,26 @@
   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
   alt="mysql"
 /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+
+<h3>Tools & Frameworks⚒️</h3>
+
+<img
+  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+  alt="github"
+/> <img
+  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+  alt="git"
+/> <img
+  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+  alt="nodejs"
+/> <img
+  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"
+  alt="express.js"
+/> <img
+  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+  alt="bootstrap"
+/> <img
+  src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  alt="reactjs"
+/>
+
