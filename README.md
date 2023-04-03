@@ -22,3 +22,5 @@
 
 
 <h3>< Programming Languages👨‍💻 /><h3/>
+
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
