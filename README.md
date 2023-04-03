@@ -1,6 +1,5 @@
-<img src="https://unsplash.com/photos/9SoCnyQmkzI" alt="a" />a
 
-<h1 align="center">Hi👋, I'm Abhinaba</h1>
+<h1 align="center">Hi👋, I'm Abhinaba welcome here</h1>
 
 <ul>
   <li>👨‍💻 I am a self taught developer</li>
