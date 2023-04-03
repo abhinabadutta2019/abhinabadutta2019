@@ -6,10 +6,13 @@
   <li>🔭 Currently Experimenting With MongoDB, Express, React, Node</li>
   <li>
     📫 Connect with me:
-    <a href="https://www.linkedin.com/in/abhinabadutta/">linkedin</a>
+    <a href="https://www.linkedin.com/in/abhinabadutta/"
+      ><strong>linkedin</strong></a
+    >
   </li>
   <li>
-    📫 Mail me:<strong
+    📫 Mail me:
+    <strong
       ><a href="mailto:abhinabadutta2015@gmail.com"
         >abhinabadutta2015@gmail.com</a
       ></strong
@@ -18,7 +21,6 @@
   <li>⚡ Unbelievable fact: My first words were "Hello world".</li>
   <li>🎨 Trying to Fill my canvas with New Skills</li>
 </ul>
-
 
 
 
