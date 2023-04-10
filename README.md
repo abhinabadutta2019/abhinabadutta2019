@@ -5,7 +5,7 @@
 </head>
 <p align="center">
   <img
-    width="48"
+    width="100"
     src="https://user-images.githubusercontent.com/118996650/230782029-28553db3-3fc9-4a4a-b3f2-a6a4bebadaa8.gif"
   />
 </p>
