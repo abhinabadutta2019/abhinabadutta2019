@@ -3,11 +3,17 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
 <p align="center">
   <img
     width="33%"
     src="https://user-images.githubusercontent.com/118996650/230782029-28553db3-3fc9-4a4a-b3f2-a6a4bebadaa8.gif"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="33%"
+    src="https://user-images.githubusercontent.com/118996650/230829182-90a97897-4553-4598-8ee2-39317bc79c22.gif"
   />
 </p>
 <h1 align="center">Hi👋, I'm Abhinaba welcome here</h1>
