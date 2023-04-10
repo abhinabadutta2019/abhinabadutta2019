@@ -10,14 +10,14 @@
   />
 </p>
 
+
+<h1 align="center">Hi👋, I'm Abhinaba welcome here</h1>
 <p align="center">
   <img
     width="33%"
     src="https://user-images.githubusercontent.com/118996650/230829182-90a97897-4553-4598-8ee2-39317bc79c22.gif"
   />
 </p>
-<h1 align="center">Hi👋, I'm Abhinaba welcome here</h1>
-
 <ul>
   <li>👨‍💻 I am a self taught developer</li>
 
